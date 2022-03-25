@@ -1,0 +1,4 @@
+{
+    "baseUrl" : "https://next.privat24.ua",
+    "ignoreTestFiles" : ["**/2-advanced-examples/*", "**/1-getting-started/*"]
+}
