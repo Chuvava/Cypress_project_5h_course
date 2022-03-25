@@ -34,6 +34,8 @@
 //     cy.fi
 // })
 
+
+//some comment here
 it("Using Get with find and Eq", () => {
     cy.visit("https://next.privat24.ua/deposit/open")
     cy.get('tbody').find('td').find('div').find('button').eq(0);
